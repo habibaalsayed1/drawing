@@ -1,5 +1,6 @@
-streamlit>=1.53
-streamlit-drawable-canvas>=0.10.0
-tensorflow>=2.16
-numpy>=1.26
-Pillow>=10.0
+streamlit
+streamlit-drawable-canvas
+pillow
+numpy
+torch
+transformers
